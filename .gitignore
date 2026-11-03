@@ -1,7 +1,8 @@
 .env
 .venv/
+.vscode/
 __pycache__/
 data/
 logs/
 *.pyc
-.vscode
+
